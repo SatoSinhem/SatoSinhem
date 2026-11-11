@@ -1,14 +1,4 @@
 ![Nox Banner](./banner.svg)
-
-## 🟢 [ ABOUT ME ]
-
-```bash
-> whoami
-Nox - Developer & Cybersecurity Enthusiast
-```
-
-I enjoy building projects, exploring how things work, and learning about cybersecurity.
-
 ## 🟢 [ TECH STACK ]
 
 ![Python](https://img.shields.io/badge/Python-071A12?style=for-the-badge&logo=python&logoColor=36C982)
@@ -17,23 +7,17 @@ I enjoy building projects, exploring how things work, and learning about cyberse
 ![Go](https://img.shields.io/badge/Go-071A12?style=for-the-badge&logo=go&logoColor=36C982)
 ![JavaScript](https://img.shields.io/badge/JavaScript-071A12?style=for-the-badge&logo=javascript&logoColor=36C982)
 
-## 🛡️ [ INTERESTS ]
+## 🟢 [ INTERESTS ]
 
 - Cybersecurity & Information Security
 - Software Development
 - Web Development
 - Programming & Problem Solving
 
-## 🚀 [ PROJECTS ]
+## 🟢 [ PROJECTS ]
 
 *More projects coming soon...*
 
-## 🎮 [ BEYOND THE CODE ]
+## 🟢 [ BEYOND THE CODE ]
 
 Video games · Travelling · Anime · Chess
-
-```text
-[ SYSTEM STATUS: ONLINE ]
-[ USER: NOX ]
-[ MODE: CYBER × DEV ]
-```
