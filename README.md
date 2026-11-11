@@ -1,4 +1,4 @@
-<p align="center"> <img src="Custom-banner.svg" alt="Parviz" width="100%"> </p>
+<p align="center"> <img src="Custom-banner.html" alt="Parviz" width="100%"> </p>
 
 <!--
 **SatoSinhem/SatoSinhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
