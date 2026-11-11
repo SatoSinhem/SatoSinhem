@@ -1,18 +1,37 @@
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Nox">
-</p>
+![Nox Banner](./banner.svg)
 
-<!--
-**SatoSinhem/SatoSinhem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🟢 [ ABOUT ME ]
 
-Here are some ideas to get you started:
+```bash
+> whoami
+Nox - Developer & Cybersecurity Enthusiast
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, exploring how things work, and learning about cybersecurity.
+
+## ⚙️ [ TECH STACK ]
+
+**Currently using:** Python · HTML · CSS · Go · JavaScript
+
+**Currently learning:** Advanced Go · JavaScript · Cybersecurity fundamentals
+
+## 🛡️ [ INTERESTS ]
+
+- Cybersecurity & Information Security
+- Software Development
+- Web Development
+- Programming & Problem Solving
+
+## 🚀 [ PROJECTS ]
+
+*More projects coming soon...*
+
+## 🎮 [ BEYOND THE CODE ]
+
+Video games · Travelling · Anime · Chess
+
+```text
+[ SYSTEM STATUS: ONLINE ]
+[ USER: NOX ]
+[ MODE: CYBER × DEV ]
+```
