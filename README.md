@@ -9,11 +9,13 @@ Nox - Developer & Cybersecurity Enthusiast
 
 I enjoy building projects, exploring how things work, and learning about cybersecurity.
 
-## ⚙️ [ TECH STACK ]
+## 🟢 [ TECH STACK ]
 
-**Currently using:** Python · HTML · CSS · Go · JavaScript
-
-**Currently learning:** Advanced Go · JavaScript · Cybersecurity fundamentals
+![Python](https://img.shields.io/badge/Python-071A12?style=for-the-badge&logo=python&logoColor=36C982)
+![HTML](https://img.shields.io/badge/HTML-071A12?style=for-the-badge&logo=html5&logoColor=36C982)
+![CSS](https://img.shields.io/badge/CSS-071A12?style=for-the-badge&logo=css3&logoColor=36C982)
+![Go](https://img.shields.io/badge/Go-071A12?style=for-the-badge&logo=go&logoColor=36C982)
+![JavaScript](https://img.shields.io/badge/JavaScript-071A12?style=for-the-badge&logo=javascript&logoColor=36C982)
 
 ## 🛡️ [ INTERESTS ]
 
